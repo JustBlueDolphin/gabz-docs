@@ -31,6 +31,6 @@ features:
     link: /vehicles/dealership
   - icon: 🎨
     title: Add-on Liveries
-    details: Turn your artwork into livery files for 51 Gabz cars with YFT Livery Maker.
+    details: Turn your artwork into livery files for 97 Gabz cars with YFT Livery Maker.
     link: /vehicles/liveries
 ---

@@ -32,17 +32,29 @@ export default defineConfig({
         {
           text: 'Common Issues',
           items: [
-            { text: 'Quick Finder', link: '/issues/' },
-            { text: 'Server Errors', link: '/issues/server-errors' },
-            { text: 'Game Crashes', link: '/issues/game-crashes' },
-            { text: 'Pool Sizes', link: '/issues/pool-sizes' }
+            { text: 'Quick Finder', link: '/issues/' }
           ]
         },
         {
-          text: 'Related',
+          text: 'General',
+          items: [
+            { text: 'Game Crashes', link: '/issues/game-crashes' },
+            { text: 'Pool Sizes', link: '/issues/pool-sizes' },
+            { text: 'Server Errors', link: '/issues/server-errors' }
+          ]
+        },
+        {
+          text: 'MLOs',
           items: [
             { text: 'MLO Conflicts', link: '/mlos/conflicts' },
             { text: 'PDM / Bob74 IPL Fix', link: '/mlos/pdm-bob74-fix' }
+          ]
+        },
+        {
+          text: 'Vehicles',
+          items: [
+            { text: 'Vehicle Issues', link: '/issues/vehicles' },
+            { text: 'Livery Problems', link: '/vehicles/liveries#troubleshooting' }
           ]
         }
       ],
