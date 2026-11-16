@@ -21,7 +21,8 @@ export default defineConfig({
             { text: 'Install & Update', link: '/mlos/install' },
             { text: 'server.cfg Order', link: '/mlos/server-cfg' },
             { text: 'All MLOs', link: '/mlos/list' },
-            { text: 'Door Locks', link: '/mlos/doorlocks' }
+            { text: 'Door Locks', link: '/mlos/doorlocks' },
+            { text: 'PDM / Bob74 IPL Fix', link: '/mlos/pdm-bob74-fix' }
           ]
         }
       ],

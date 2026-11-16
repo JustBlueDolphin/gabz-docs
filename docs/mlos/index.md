@@ -6,6 +6,7 @@ Our server runs the full **Gabz** map pack: 70 resources, including interiors, g
 - [server.cfg Order](./server-cfg) – copy-paste `ensure` list in the right order
 - [All MLOs](./list) – every map with its version and dependencies
 - [Door Locks](./doorlocks) – preset door configs that ship with the pack
+- [PDM / Bob74 IPL Fix](./pdm-bob74-fix) – fix PDM collisions and props when using bob74_ipl
 
 ## Requirements
 

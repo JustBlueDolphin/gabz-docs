@@ -52,7 +52,7 @@ Every Gabz map resource on the server. Press <kbd>Ctrl</kbd>+<kbd>F</kbd> to fin
 | `cfx-gabz-paletoliquor` | Paleto Liquor | 1.0.0 |  |
 | `cfx-gabz-paletopd` | Paleto Sheriff | 1.0.2 | Needs `cfx-gabz-pdprops` |
 | `cfx-gabz-parkranger` | Park Ranger | 1.0.2 |  |
-| `cfx-gabz-pdm` | PDM | 1.0.2 |  |
+| `cfx-gabz-pdm` | PDM | 1.0.2 | Conflicts with bob74_ipl. See the [fix](./pdm-bob74-fix) |
 | `cfx-gabz-pdprops` | PD Props | 1.0.2 | **Required** for any PD. Start before the PDs |
 | `cfx-gabz-pearls` | Pearls | 1.0.2 |  |
 | `cfx-gabz-pillbox` | Pillbox | 1.0.2 |  |
