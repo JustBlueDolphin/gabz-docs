@@ -26,4 +26,8 @@ features:
     title: Framework ready
     details: Drop-in dealership data for QBox, QBCore and ESX, plus preset door locks.
     link: /vehicles/dealership
+  - icon: 🎨
+    title: Add-on Liveries
+    details: Turn your artwork into livery files for 51 Gabz cars with YFT Livery Maker.
+    link: /vehicles/liveries
 ---

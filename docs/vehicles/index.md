@@ -4,6 +4,7 @@ The server runs the **Gabz vehicle pack**: **140** cars across 15 categories, al
 
 - [Spawn Codes](./spawn-codes) – full list with brands, categories and prices
 - [Dealership Setup](./dealership) – drop-in data for QBox, QBCore and ESX
+- [Add-on Liveries](./liveries) – make your own liveries with YFT Livery Maker
 
 ## Install
 

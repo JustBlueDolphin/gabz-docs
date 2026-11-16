@@ -33,7 +33,8 @@ export default defineConfig({
           items: [
             { text: 'Overview', link: '/vehicles/' },
             { text: 'Spawn Codes', link: '/vehicles/spawn-codes' },
-            { text: 'Dealership Setup', link: '/vehicles/dealership' }
+            { text: 'Dealership Setup', link: '/vehicles/dealership' },
+            { text: 'Add-on Liveries', link: '/vehicles/liveries' }
           ]
         }
       ]
