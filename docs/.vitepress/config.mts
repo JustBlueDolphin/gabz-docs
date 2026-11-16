@@ -9,18 +9,33 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/getting-started' }
+      { text: 'MLOs', link: '/mlos/' },
+      { text: 'Vehicles', link: '/vehicles/' }
     ],
-    sidebar: [
-      {
-        text: 'Guide',
-        items: [
-          { text: 'Getting Started', link: '/guide/getting-started' },
-          { text: 'Installation', link: '/guide/installation' },
-          { text: 'Configuration', link: '/guide/configuration' }
-        ]
-      }
-    ],
+    sidebar: {
+      '/mlos/': [
+        {
+          text: 'MLOs',
+          items: [
+            { text: 'Overview', link: '/mlos/' },
+            { text: 'Install & Update', link: '/mlos/install' },
+            { text: 'server.cfg Order', link: '/mlos/server-cfg' },
+            { text: 'All MLOs', link: '/mlos/list' },
+            { text: 'Door Locks', link: '/mlos/doorlocks' }
+          ]
+        }
+      ],
+      '/vehicles/': [
+        {
+          text: 'Vehicles',
+          items: [
+            { text: 'Overview', link: '/vehicles/' },
+            { text: 'Spawn Codes', link: '/vehicles/spawn-codes' },
+            { text: 'Dealership Setup', link: '/vehicles/dealership' }
+          ]
+        }
+      ]
+    },
     search: { provider: 'local' },
     socialLinks: [{ icon: 'github', link: 'https://github.com/JustBlueDolphin/gabz-docs' }],
     editLink: {

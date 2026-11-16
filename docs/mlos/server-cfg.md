@@ -1,0 +1,80 @@
+# server.cfg Order
+
+Copy this into your `server.cfg`. The order matters: `cfx-gabz-mapdata` goes first, then `cfx-gabz-scenarios` and `cfx-gabz-pdprops`, then the maps. Remove any lines for maps you don't use.
+
+```ini
+ensure cfx-gabz-mapdata
+ensure cfx-gabz-scenarios
+ensure cfx-gabz-pdprops
+ensure cfx-gabz-247
+ensure cfx-gabz-altruists
+ensure cfx-gabz-ammunation
+ensure cfx-gabz-arcade
+ensure cfx-gabz-atom
+ensure cfx-gabz-aztecas
+ensure cfx-gabz-bahama
+ensure cfx-gabz-ballas
+ensure cfx-gabz-barber
+ensure cfx-gabz-beanmachine
+ensure cfx-gabz-bennys
+ensure cfx-gabz-binco
+ensure cfx-gabz-bobcat
+ensure cfx-gabz-bowling
+ensure cfx-gabz-burgershot
+ensure cfx-gabz-carmeet
+ensure cfx-gabz-casino
+ensure cfx-gabz-catcafe
+ensure cfx-gabz-davispd
+ensure cfx-gabz-diner
+ensure cfx-gabz-esbltd
+ensure cfx-gabz-families
+ensure cfx-gabz-firedept
+ensure cfx-gabz-fleeca
+ensure cfx-gabz-harmony
+ensure cfx-gabz-haters
+ensure cfx-gabz-hayes
+ensure cfx-gabz-hornys
+ensure cfx-gabz-import
+ensure cfx-gabz-impound
+ensure cfx-gabz-koi
+ensure cfx-gabz-lamesapd
+ensure cfx-gabz-lost
+ensure cfx-gabz-lostsc
+ensure cfx-gabz-lscustoms
+ensure cfx-gabz-marabunta
+ensure cfx-gabz-mba
+ensure cfx-gabz-mirrorpark1
+ensure cfx-gabz-mirrorpark2
+ensure cfx-gabz-mrpd
+ensure cfx-gabz-ottos
+ensure cfx-gabz-pacificbank
+ensure cfx-gabz-paletobank
+ensure cfx-gabz-paletocamp
+ensure cfx-gabz-paletoliquor
+ensure cfx-gabz-paletopd
+ensure cfx-gabz-parkranger
+ensure cfx-gabz-pdm
+ensure cfx-gabz-pearls
+ensure cfx-gabz-pillbox
+ensure cfx-gabz-pinkcage
+ensure cfx-gabz-pizzeria
+ensure cfx-gabz-ponsonbys
+ensure cfx-gabz-prison
+ensure cfx-gabz-records
+ensure cfx-gabz-sandypd
+ensure cfx-gabz-studio
+ensure cfx-gabz-suburban
+ensure cfx-gabz-tattoo
+ensure cfx-gabz-townhall
+ensure cfx-gabz-triads
+ensure cfx-gabz-tuners
+ensure cfx-gabz-vagos
+ensure cfx-gabz-vbmarket
+ensure cfx-gabz-vu
+ensure cfx-gabz-weedcamp
+ensure cfx-gabz-yachts
+```
+
+::: tip Shortcut
+If all maps sit in a `[gabzmaps]` folder, `ensure [gabzmaps]` starts them all. You lose control of the order, though. If you get missing props or broken PDs, switch to the list above.
+:::

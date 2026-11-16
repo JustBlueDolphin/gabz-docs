@@ -3,21 +3,27 @@ layout: home
 
 hero:
   name: Gabz Docs
-  text: Server documentation
-  tagline: Setup, configuration and reference for our FiveM server.
+  text: MLOs & Vehicles
+  tagline: Install guides, load order, spawn codes and dealership data for the Gabz pack.
   actions:
     - theme: brand
-      text: Get Started
-      link: /guide/getting-started
+      text: MLOs
+      link: /mlos/
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/JustBlueDolphin/gabz-docs
+      text: Vehicles
+      link: /vehicles/
 
 features:
-  - title: Quick setup
-    details: Step-by-step install guide to get the server running.
-  - title: Configuration
-    details: Every config option explained with examples.
-  - title: Searchable
-    details: Press Ctrl+K anywhere to search the docs.
+  - icon: 🏢
+    title: 70 MLOs
+    details: Every Gabz map with its version, dependencies and a copy-paste server.cfg order.
+    link: /mlos/list
+  - icon: 🚗
+    title: 140 Vehicles
+    details: Spawn codes, brands, categories and prices, grouped by class.
+    link: /vehicles/spawn-codes
+  - icon: 🔧
+    title: Framework ready
+    details: Drop-in dealership data for QBox, QBCore and ESX, plus preset door locks.
+    link: /vehicles/dealership
 ---
