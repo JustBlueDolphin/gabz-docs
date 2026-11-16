@@ -3,6 +3,9 @@
 Copy this into your `server.cfg`. The order matters: `cfx-gabz-mapdata` goes first, then `cfx-gabz-scenarios` and `cfx-gabz-pdprops`, then the maps. Remove any lines for maps you don't use.
 
 ```ini
+# stop "Pool Full" crashes (see Common Errors)
+increase_pool_size "TxdStore" 26000
+
 ensure cfx-gabz-mapdata
 ensure cfx-gabz-scenarios
 ensure cfx-gabz-pdprops

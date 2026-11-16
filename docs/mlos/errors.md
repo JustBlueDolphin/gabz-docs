@@ -4,7 +4,7 @@ outline: [2, 3]
 
 # 🚨 Common Errors
 
-Server console errors you'll see with Gabz maps, and how to fix them. Tip: press <kbd>Ctrl</kbd>+<kbd>K</kbd> and paste part of your error to jump straight here.
+Server console errors and game crashes you'll see with Gabz maps, and how to fix them. Tip: press <kbd>Ctrl</kbd>+<kbd>K</kbd> and paste part of your error to jump straight here.
 
 ## Could not find dependency cfx-gabz-pdprops
 
@@ -80,6 +80,52 @@ You lack the required entitlement to use cfx-gabz-xxx
 ```
 
 Your server's license key belongs to a Cfx.re account that doesn't own the Gabz package. Use a key from the account that bought it, or transfer the asset on [Keymaster](https://keymaster.fivem.net/asset-grants).
+
+## Game crash: TxdStore Pool Full
+
+```ansi
+Error GTA5_b3258.exe+5D3125
+Recursive error: An exception occurred (c0000005 at 0x1405d3125) during execution
+of the INIT_SESSION function for CExtraContentWrapper. The game will be terminated.
+
+Original error: TxdStore Pool Full, Size == 105500
+```
+
+**What it means:** this is a crash in the **game**, not a server console error. The game has a fixed number of slots for texture dictionaries (`.ytd` files). With 70 Gabz maps, a vehicle pack and your other streamed resources, players run out of slots while loading in, and the game closes.
+
+**Fix:** raise the limit in `server.cfg`. Put it near the **top**, above your `ensure` lines:
+
+```ini
+increase_pool_size "TxdStore" 26000   # Max: 26000
+```
+
+Restart the **server** (not just a resource). Players don't need to change anything. The new limit is sent to them when they connect.
+
+::: warning 26000 is the max
+Anything higher is ignored. The server log shows a warning, and the crash keeps happening. Don't copy `50000` or `65500` from old forum posts.
+:::
+
+**Check it worked:** in-game, press <kbd>F8</kbd> → **Tools → Streaming → Pool Monitor** and look for `TxdStore`.
+
+### Other "Pool Full" crashes
+
+The same command fixes other pool crashes. Use the pool name from the error message:
+
+```ini
+increase_pool_size "FragmentStore" 14000          # Max: 14000 (lots of add-on vehicles)
+increase_pool_size "StaticBounds" 5000            # Max: 5000  (collisions, lots of MLOs)
+increase_pool_size "OcclusionPathNode" 5000       # Max: 5000
+increase_pool_size "OcclusionPortalEntity" 750    # Max: 750
+increase_pool_size "OcclusionPortalInfo" 750      # Max: 750
+increase_pool_size "PortalInst" 225               # Max: 225
+increase_pool_size "ScaleformStore" 200           # Max: 200
+increase_pool_size "CMoveObject" 75               # Max: 75
+increase_pool_size "OcclusionInteriorInfo" 20     # Max: 20
+```
+
+::: tip Still crashing at the max?
+You're streaming more than the game can hold. Remove maps and vehicle packs you don't use. Every resource you `ensure` takes up slots, even if nobody goes there.
+:::
 
 ## Still stuck?
 
