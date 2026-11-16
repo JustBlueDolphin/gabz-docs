@@ -22,6 +22,8 @@ Never rename, move or delete anything inside a `cfx-gabz-xxx` folder. The maps a
 
 ## Troubleshooting
 
+Seeing an error in the console? Check [Common Errors](./errors) first.
+
 | Problem | Fix |
 | --- | --- |
 | `You lack the required entitlement to use cfx-gabz-xxx` | The server key belongs to a Cfx.re account that doesn't own the pack. Transfer the asset on Keymaster, or use the owner's key. |

@@ -19,6 +19,7 @@ export default defineConfig({
           items: [
             { text: 'Overview', link: '/mlos/' },
             { text: 'Install & Update', link: '/mlos/install' },
+            { text: 'Common Errors', link: '/mlos/errors' },
             { text: 'server.cfg Order', link: '/mlos/server-cfg' },
             { text: 'All MLOs', link: '/mlos/list' },
             { text: 'Door Locks', link: '/mlos/doorlocks' },

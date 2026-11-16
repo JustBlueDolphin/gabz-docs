@@ -3,6 +3,7 @@
 Our server runs the full **Gabz** map pack: 70 resources, including interiors, gang hoods, PDs, shops and banks.
 
 - [Install & Update](./install) – first-time setup and how to update safely
+- [Common Errors](./errors) – console errors like `Could not find dependency` and how to fix them
 - [server.cfg Order](./server-cfg) – copy-paste `ensure` list in the right order
 - [All MLOs](./list) – every map with its version and dependencies
 - [Door Locks](./doorlocks) – preset door configs that ship with the pack
