@@ -29,4 +29,5 @@ Never rename, move or delete anything inside a `cfx-gabz-xxx` folder. The maps a
 | PD has missing props | Start `cfx-gabz-pdprops` before the PD maps. |
 | Ottos is broken | Ottos needs both `cfx-gabz-247` and `cfx-gabz-pizzeria`. |
 | PDM has broken collisions or props, or the old building shows | See [PDM / Bob74 IPL Fix](./pdm-bob74-fix). |
+| Floors or walls missing, or props doubled near another creator's map | See [MLO Conflicts](./conflicts). |
 | Maps load as old versions | Clear the server cache and restart. |

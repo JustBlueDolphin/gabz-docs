@@ -7,6 +7,7 @@ Our server runs the full **Gabz** map pack: 70 resources, including interiors, g
 - [All MLOs](./list) – every map with its version and dependencies
 - [Door Locks](./doorlocks) – preset door configs that ship with the pack
 - [PDM / Bob74 IPL Fix](./pdm-bob74-fix) – fix PDM collisions and props when using bob74_ipl
+- [MLO Conflicts](./conflicts) – find and fix clashes with other creators' maps
 
 ## Requirements
 

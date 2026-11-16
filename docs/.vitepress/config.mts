@@ -22,7 +22,8 @@ export default defineConfig({
             { text: 'server.cfg Order', link: '/mlos/server-cfg' },
             { text: 'All MLOs', link: '/mlos/list' },
             { text: 'Door Locks', link: '/mlos/doorlocks' },
-            { text: 'PDM / Bob74 IPL Fix', link: '/mlos/pdm-bob74-fix' }
+            { text: 'PDM / Bob74 IPL Fix', link: '/mlos/pdm-bob74-fix' },
+            { text: 'MLO Conflicts', link: '/mlos/conflicts' }
           ]
         }
       ],
