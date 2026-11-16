@@ -22,7 +22,7 @@ Never rename, move or delete anything inside a `cfx-gabz-xxx` folder. The maps a
 
 ## Troubleshooting
 
-Seeing an error in the console? Check [Common Errors](./errors) first.
+Seeing an error in the console? Check [Common Issues](/issues/) first.
 
 | Problem | Fix |
 | --- | --- |
@@ -32,5 +32,5 @@ Seeing an error in the console? Check [Common Errors](./errors) first.
 | Ottos is broken | Ottos needs both `cfx-gabz-247` and `cfx-gabz-pizzeria`. |
 | PDM has broken collisions or props, or the old building shows | See [PDM / Bob74 IPL Fix](./pdm-bob74-fix). |
 | Floors or walls missing, or props doubled near another creator's map | See [MLO Conflicts](./conflicts). |
-| Game crashes on join with `TxdStore Pool Full` | Add `increase_pool_size "TxdStore" 26000` to `server.cfg`. See [Common Errors](./errors#game-crash-txdstore-pool-full). |
+| Game crashes on join with `TxdStore Pool Full` | Add `increase_pool_size "TxdStore" 50000` to `server.cfg`. See [Game Crashes](/issues/game-crashes#txdstore-pool-full). |
 | Maps load as old versions | Clear the server cache and restart. |

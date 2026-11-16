@@ -12,6 +12,9 @@ hero:
     - theme: alt
       text: Vehicles
       link: /vehicles/
+    - theme: alt
+      text: Common Issues
+      link: /issues/
 
 features:
   - icon: 🏢

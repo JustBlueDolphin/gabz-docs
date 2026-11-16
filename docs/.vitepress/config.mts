@@ -10,7 +10,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'MLOs', link: '/mlos/' },
-      { text: 'Vehicles', link: '/vehicles/' }
+      { text: 'Vehicles', link: '/vehicles/' },
+      { text: 'Common Issues', link: '/issues/' }
     ],
     sidebar: {
       '/mlos/': [
@@ -19,12 +20,29 @@ export default defineConfig({
           items: [
             { text: 'Overview', link: '/mlos/' },
             { text: 'Install & Update', link: '/mlos/install' },
-            { text: 'Common Errors', link: '/mlos/errors' },
             { text: 'server.cfg Order', link: '/mlos/server-cfg' },
             { text: 'All MLOs', link: '/mlos/list' },
             { text: 'Door Locks', link: '/mlos/doorlocks' },
             { text: 'PDM / Bob74 IPL Fix', link: '/mlos/pdm-bob74-fix' },
             { text: 'MLO Conflicts', link: '/mlos/conflicts' }
+          ]
+        }
+      ],
+      '/issues/': [
+        {
+          text: 'Common Issues',
+          items: [
+            { text: 'Quick Finder', link: '/issues/' },
+            { text: 'Server Errors', link: '/issues/server-errors' },
+            { text: 'Game Crashes', link: '/issues/game-crashes' },
+            { text: 'Pool Sizes', link: '/issues/pool-sizes' }
+          ]
+        },
+        {
+          text: 'Related',
+          items: [
+            { text: 'MLO Conflicts', link: '/mlos/conflicts' },
+            { text: 'PDM / Bob74 IPL Fix', link: '/mlos/pdm-bob74-fix' }
           ]
         }
       ],
