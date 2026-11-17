@@ -1,0 +1,866 @@
+[
+  {
+    "model": "gb811s2",
+    "name": "811 S2",
+    "brand": "Pfister",
+    "price": 150000,
+    "category": "super",
+    "type": "automobile"
+  },
+  {
+    "model": "gbbanshees",
+    "name": "Banshee S",
+    "brand": "Bravado",
+    "price": 150000,
+    "category": "super",
+    "type": "automobile"
+  },
+  {
+    "model": "gbemerus",
+    "name": "Emerus",
+    "brand": "Progen",
+    "price": 35000,
+    "category": "super",
+    "type": "automobile"
+  },
+  {
+    "model": "gbemerussb1",
+    "name": "Emerus SB1",
+    "brand": "Progen",
+    "price": 35000,
+    "category": "super",
+    "type": "automobile"
+  },
+  {
+    "model": "gbcheetahs",
+    "name": "Grotti Cheetah S",
+    "brand": "Grotti",
+    "price": 35000,
+    "category": "super",
+    "type": "automobile"
+  },
+  {
+    "model": "gbmeteor",
+    "name": "Meteor",
+    "brand": "Pfister",
+    "price": 150000,
+    "category": "super",
+    "type": "automobile"
+  },
+  {
+    "model": "gbprospero",
+    "name": "Prospero",
+    "brand": "Pegassi",
+    "price": 35000,
+    "category": "super",
+    "type": "automobile"
+  },
+  {
+    "model": "gbtempestafs",
+    "name": "Tempesta Fuoristrada",
+    "brand": "Pegassi",
+    "price": 35000,
+    "category": "super",
+    "type": "automobile"
+  },
+  {
+    "model": "gbtoreroxpr1",
+    "name": "Torero XPR-1",
+    "brand": "Pegassi",
+    "price": 35000,
+    "category": "super",
+    "type": "automobile"
+  },
+  {
+    "model": "gbtr3s",
+    "name": "TR3-S",
+    "brand": "Progen",
+    "price": 35000,
+    "category": "super",
+    "type": "automobile"
+  },
+  {
+    "model": "gbzeitgeist",
+    "name": "Zeitgeist",
+    "brand": "Benefacprog",
+    "price": 150000,
+    "category": "super",
+    "type": "automobile"
+  },
+  {
+    "model": "gbtenfr",
+    "name": "10F Spyder",
+    "brand": "Obey",
+    "price": 80000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbarcherpro2",
+    "name": "Archer Pro II",
+    "brand": "Maibatsu",
+    "price": 35000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbargento2f",
+    "name": "Argento 2F",
+    "brand": "Obey",
+    "price": 35000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbcomets2r",
+    "name": "Comet S2R",
+    "brand": "Pfister",
+    "price": 150000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbcomets2rc",
+    "name": "Comet S2RC",
+    "brand": "Pfister",
+    "price": 150000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbcyphergts",
+    "name": "Cypher GTS",
+    "brand": "Ubermacht",
+    "price": 150000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbkisairs",
+    "name": "Kisai RS",
+    "brand": "Karin",
+    "price": 80000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbmilano",
+    "name": "Milano GTS",
+    "brand": "Grotti",
+    "price": 35000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbmochi",
+    "name": "Mochi",
+    "brand": "Annis",
+    "price": 80000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbmogulrs",
+    "name": "Mogul RS",
+    "brand": "Karin",
+    "price": 35000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbneonct",
+    "name": "Neon Cross Turismo",
+    "brand": "Pfister",
+    "price": 35000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbnexusrr",
+    "name": "Nexus RR",
+    "brand": "Dinka",
+    "price": 80000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbretinueloz",
+    "name": "Retinue Lozspeed",
+    "brand": "Vapid",
+    "price": 100000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbromulus",
+    "name": "Romulus",
+    "brand": "Annis",
+    "price": 150000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbronin",
+    "name": "Ronin",
+    "brand": "Emperor",
+    "price": 150000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbrumina",
+    "name": "Rumina",
+    "brand": "Annis",
+    "price": 140000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbschlagenr",
+    "name": "Schlagen Roadster",
+    "brand": "Benefactor",
+    "price": 30000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbschlagensp",
+    "name": "Schlagen SP",
+    "brand": "Benefactor",
+    "price": 30000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbschrauber",
+    "name": "Schrauber",
+    "brand": "Benefactor",
+    "price": 150000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbschwartzers",
+    "name": "Schwartzer S",
+    "brand": "Benefactor",
+    "price": 35000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbsentinelgts",
+    "name": "Sentinel GTS-R",
+    "brand": "Ubermacht",
+    "price": 150000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbshogun",
+    "name": "Shogun",
+    "brand": "Karin",
+    "price": 150000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbsolace",
+    "name": "Solace",
+    "brand": "Dewbauchee",
+    "price": 150000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbsolacev",
+    "name": "Solace Vitesse",
+    "brand": "Dewbauchee",
+    "price": 150000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbsultanrsx",
+    "name": "Sultan RSx",
+    "brand": "Karin",
+    "price": 150000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbtokage2",
+    "name": "Tokage (JDM)",
+    "brand": "Dinka",
+    "price": 150000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbtokage",
+    "name": "Tokage (USDM)",
+    "brand": "Dinka",
+    "price": 150000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbvivantgrb",
+    "name": "Vivant GrB",
+    "brand": "Bordeaux",
+    "price": 35000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbzr350",
+    "name": "ZR350",
+    "brand": "Annis",
+    "price": 150000,
+    "category": "sports",
+    "type": "automobile"
+  },
+  {
+    "model": "gbcometcl",
+    "name": "Comet Classic",
+    "brand": "Pfister",
+    "price": 150000,
+    "category": "sportsclassics",
+    "type": "automobile"
+  },
+  {
+    "model": "gbcometclf",
+    "name": "Comet Classic Florio",
+    "brand": "Pfister",
+    "price": 150000,
+    "category": "sportsclassics",
+    "type": "automobile"
+  },
+  {
+    "model": "gbcomets1t",
+    "name": "Comet S1 Turbo",
+    "brand": "Pfister",
+    "price": 150000,
+    "category": "sportsclassics",
+    "type": "automobile"
+  },
+  {
+    "model": "gbcomets1tf",
+    "name": "Comet S1 Turbo Florio",
+    "brand": "Pfister",
+    "price": 150000,
+    "category": "sportsclassics",
+    "type": "automobile"
+  },
+  {
+    "model": "gbelegyrh2",
+    "name": "Elegy RH2",
+    "brand": "Annis",
+    "price": 150000,
+    "category": "sportsclassics",
+    "type": "automobile"
+  },
+  {
+    "model": "gbkomodagt",
+    "name": "Komoda GT",
+    "brand": "Lampada",
+    "price": 130000,
+    "category": "sportsclassics",
+    "type": "automobile"
+  },
+  {
+    "model": "gbnexus1",
+    "name": "Nexus",
+    "brand": "Dinka",
+    "price": 150000,
+    "category": "sportsclassics",
+    "type": "automobile"
+  },
+  {
+    "model": "gbraidillon",
+    "name": "Raidillon",
+    "brand": "Toundra",
+    "price": 150000,
+    "category": "sportsclassics",
+    "type": "automobile"
+  },
+  {
+    "model": "gbsidewinder",
+    "name": "Sidewinder",
+    "brand": "Maxwell",
+    "price": 150000,
+    "category": "sportsclassics",
+    "type": "automobile"
+  },
+  {
+    "model": "gbturismogt",
+    "name": "Turismo 300GT",
+    "brand": "Grotti",
+    "price": 100000,
+    "category": "sportsclassics",
+    "type": "automobile"
+  },
+  {
+    "model": "gbturismogts",
+    "name": "Turismo 300GT Spider",
+    "brand": "Grotti",
+    "price": 100000,
+    "category": "sportsclassics",
+    "type": "automobile"
+  },
+  {
+    "model": "gbmugello",
+    "name": "Turismo Mugello",
+    "brand": "Grotti",
+    "price": 100000,
+    "category": "sportsclassics",
+    "type": "automobile"
+  },
+  {
+    "model": "gbbuffalohf",
+    "name": "Buffalo Hellfire",
+    "brand": "Bravado",
+    "price": 150000,
+    "category": "muscle",
+    "type": "automobile"
+  },
+  {
+    "model": "gbdominatorgsx",
+    "name": "Dominator GSX",
+    "brand": "Vapid",
+    "price": 100000,
+    "category": "muscle",
+    "type": "automobile"
+  },
+  {
+    "model": "gbdomle",
+    "name": "Dominator LE",
+    "brand": "Vapid",
+    "price": 100000,
+    "category": "muscle",
+    "type": "automobile"
+  },
+  {
+    "model": "gbhades",
+    "name": "Hades",
+    "brand": "Dundreary",
+    "price": 35000,
+    "category": "muscle",
+    "type": "automobile"
+  },
+  {
+    "model": "gbhurricane",
+    "name": "Hurricane",
+    "brand": "Brute",
+    "price": 50000,
+    "category": "muscle",
+    "type": "automobile"
+  },
+  {
+    "model": "gbimpalerdlx",
+    "name": "Impaler Deluxe",
+    "brand": "Declasse",
+    "price": 25000,
+    "category": "muscle",
+    "type": "automobile"
+  },
+  {
+    "model": "gbtahomagt",
+    "name": "Tahoma GT",
+    "brand": "Declasse",
+    "price": 25000,
+    "category": "muscle",
+    "type": "automobile"
+  },
+  {
+    "model": "gbvigerorat",
+    "name": "Vigero Rattler",
+    "brand": "Declasse",
+    "price": 50000,
+    "category": "muscle",
+    "type": "automobile"
+  },
+  {
+    "model": "gbsapphire",
+    "name": "Sapphire",
+    "brand": "Enus",
+    "price": 150000,
+    "category": "coupes",
+    "type": "automobile"
+  },
+  {
+    "model": "gbadmiral",
+    "name": "Admiral",
+    "brand": "Dundreary",
+    "price": 35000,
+    "category": "sedans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbargento7f",
+    "name": "Argento 7F",
+    "brand": "Obey",
+    "price": 50000,
+    "category": "sedans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbargento7fs",
+    "name": "Argento 7F Sportback",
+    "brand": "Obey",
+    "price": 50000,
+    "category": "sedans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbechelon",
+    "name": "Echelon",
+    "brand": "BF",
+    "price": 50000,
+    "category": "sedans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbechelons",
+    "name": "Echelon Sportback",
+    "brand": "BF",
+    "price": 50000,
+    "category": "sedans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbeon",
+    "name": "Eon",
+    "brand": "Coil",
+    "price": 35000,
+    "category": "sedans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbharmann",
+    "name": "Harmann",
+    "brand": "Benefactor",
+    "price": 35000,
+    "category": "sedans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbhedra",
+    "name": "Hedra",
+    "brand": "Vulcar",
+    "price": 50000,
+    "category": "sedans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbhedrakombi",
+    "name": "Hedra Kombi",
+    "brand": "Vulcar",
+    "price": 50000,
+    "category": "sedans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbimpaler",
+    "name": "Impaler LE",
+    "brand": "Declasse",
+    "price": 35000,
+    "category": "sedans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbstanierle",
+    "name": "Stanier LE",
+    "brand": "Vapid",
+    "price": 35000,
+    "category": "sedans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbbriosof",
+    "name": "Brioso Fulmine",
+    "brand": "Grotti",
+    "price": 35000,
+    "category": "compacts",
+    "type": "automobile"
+  },
+  {
+    "model": "gbclubxr",
+    "name": "Club XR",
+    "brand": "BF",
+    "price": 150000,
+    "category": "compacts",
+    "type": "automobile"
+  },
+  {
+    "model": "gbirisz",
+    "name": "Iris Z",
+    "brand": "Bollokan",
+    "price": 150000,
+    "category": "compacts",
+    "type": "automobile"
+  },
+  {
+    "model": "gbissimetro",
+    "name": "Issi Metro",
+    "brand": "Weeny",
+    "price": 35000,
+    "category": "compacts",
+    "type": "automobile"
+  },
+  {
+    "model": "gblaner4fh",
+    "name": "Laner 4FH",
+    "brand": "Obey",
+    "price": 35000,
+    "category": "compacts",
+    "type": "automobile"
+  },
+  {
+    "model": "gbvivant",
+    "name": "Vivant",
+    "brand": "Bordeaux",
+    "price": 150000,
+    "category": "compacts",
+    "type": "automobile"
+  },
+  {
+    "model": "gbzero",
+    "name": "Zero",
+    "brand": "Grotti",
+    "price": 35000,
+    "category": "compacts",
+    "type": "automobile"
+  },
+  {
+    "model": "gberotiq",
+    "name": "E-Rotiq",
+    "brand": "Bollokan",
+    "price": 35000,
+    "category": "suvs",
+    "type": "automobile"
+  },
+  {
+    "model": "gbgresleystx",
+    "name": "Gresley STX",
+    "brand": "Bravado",
+    "price": 50000,
+    "category": "suvs",
+    "type": "automobile"
+  },
+  {
+    "model": "gbnobile",
+    "name": "Nobile",
+    "brand": "Grotti",
+    "price": 50000,
+    "category": "suvs",
+    "type": "automobile"
+  },
+  {
+    "model": "gbscoutgsx",
+    "name": "Scout GSX",
+    "brand": "Vapid",
+    "price": 50000,
+    "category": "suvs",
+    "type": "automobile"
+  },
+  {
+    "model": "gbstarlight",
+    "name": "Starlight",
+    "brand": "Vulcar",
+    "price": 50000,
+    "category": "suvs",
+    "type": "automobile"
+  },
+  {
+    "model": "gbbisonhf",
+    "name": "Bison HF",
+    "brand": "Bravado",
+    "price": 50000,
+    "category": "offroad",
+    "type": "automobile"
+  },
+  {
+    "model": "gbcaracaragsx",
+    "name": "Caracara GSX",
+    "brand": "Vapid",
+    "price": 50000,
+    "category": "offroad",
+    "type": "automobile"
+  },
+  {
+    "model": "gblod4",
+    "name": "LOD-4",
+    "brand": "Coil",
+    "price": 50000,
+    "category": "offroad",
+    "type": "automobile"
+  },
+  {
+    "model": "gbmojave",
+    "name": "Mojave",
+    "brand": "Karin",
+    "price": 50000,
+    "category": "offroad",
+    "type": "automobile"
+  },
+  {
+    "model": "gbterrorizer",
+    "name": "Terrorizer",
+    "brand": "HVY",
+    "price": 50000,
+    "category": "offroad",
+    "type": "automobile"
+  },
+  {
+    "model": "gbbisonstx",
+    "name": "Bison STX",
+    "brand": "Bravado",
+    "price": 25000,
+    "category": "vans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbboxboy",
+    "name": "Boxboy",
+    "brand": "Brute",
+    "price": 25000,
+    "category": "vans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbboxboyft",
+    "name": "Boxboy Food Truck",
+    "brand": "Brute",
+    "price": 25000,
+    "category": "vans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbesurfer",
+    "name": "e-Surfer",
+    "brand": "BF",
+    "price": 50000,
+    "category": "vans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbesperta",
+    "name": "Rumpo Esperta",
+    "brand": "Bravado",
+    "price": 22000,
+    "category": "vans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbsteedvan",
+    "name": "Steed",
+    "brand": "Vapid",
+    "price": 22000,
+    "category": "vans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbsteedcrew",
+    "name": "Steed Crewmate",
+    "brand": "Vapid",
+    "price": 22000,
+    "category": "vans",
+    "type": "automobile"
+  },
+  {
+    "model": "gbvoyagerb2",
+    "name": "Voyager 4x2-B",
+    "brand": "MTL",
+    "price": 40000,
+    "category": "commercial",
+    "type": "automobile"
+  },
+  {
+    "model": "gbvoyager2",
+    "name": "Voyager 4x2-T",
+    "brand": "MTL",
+    "price": 40000,
+    "category": "commercial",
+    "type": "automobile"
+  },
+  {
+    "model": "gbvoyagerb",
+    "name": "Voyager 6x4-B",
+    "brand": "MTL",
+    "price": 40000,
+    "category": "commercial",
+    "type": "automobile"
+  },
+  {
+    "model": "gbvoyager",
+    "name": "Voyager 6x4-T",
+    "brand": "MTL",
+    "price": 40000,
+    "category": "commercial",
+    "type": "automobile"
+  },
+  {
+    "model": "gbvoyagerh",
+    "name": "Voyager 6x2-H",
+    "brand": "MTL",
+    "price": 40000,
+    "category": "industrial",
+    "type": "automobile"
+  },
+  {
+    "model": "gbdice",
+    "name": "Dice",
+    "brand": "Karin",
+    "price": 50000,
+    "category": "utility",
+    "type": "automobile"
+  },
+  {
+    "model": "gbdelivere",
+    "name": "Deliver-E",
+    "brand": "Hijak",
+    "price": 25000,
+    "category": "service",
+    "type": "automobile"
+  },
+  {
+    "model": "gbtaxiargento7f",
+    "name": "Taxi Argento 7F",
+    "brand": "Obey",
+    "price": 50000,
+    "category": "service",
+    "type": "automobile"
+  },
+  {
+    "model": "gbtaxieon",
+    "name": "Taxi Eon",
+    "brand": "Coil",
+    "price": 35000,
+    "category": "service",
+    "type": "automobile"
+  },
+  {
+    "model": "gbtaxistanierle",
+    "name": "Taxi Stanier LE",
+    "brand": "Vapid",
+    "price": 35000,
+    "category": "service",
+    "type": "automobile"
+  },
+  {
+    "model": "gbtaxistarlight",
+    "name": "Taxi Starlight",
+    "brand": "Vulcar",
+    "price": 50000,
+    "category": "service",
+    "type": "automobile"
+  },
+  {
+    "model": "gbvoyagerg",
+    "name": "Voyager Trash Truck",
+    "brand": "MTL",
+    "price": 40000,
+    "category": "service",
+    "type": "automobile"
+  }
+]

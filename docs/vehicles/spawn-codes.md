@@ -216,6 +216,10 @@ Spawn one in-game with `/car <spawncode>` (e.g. `/car gb811s2`).
 
 ## Emergency
 
+::: warning Not in the vehicle pack
+These 32 emergency vehicles are a **separate Gabz pack**. They're listed here (and in `vehicle_spawn_names.txt`), but they won't spawn unless you own and install the emergency pack.
+:::
+
 | Spawn Code       | Brand      | Name                  | Category  | Price    |
 |------------------|------------|-----------------------|-----------|---------:|
 | gbpoladmiral     | Dundreary  | Admiral Police        | Emergency |  $35,000 |

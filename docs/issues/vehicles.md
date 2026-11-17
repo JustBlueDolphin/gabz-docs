@@ -10,9 +10,10 @@ Common problems with the Gabz vehicle pack and how to fix them. For crashes whil
 
 **"Model doesn't exist" / nothing happens when you spawn it.**
 
-1. **Check the spawn code.** Spawn codes aren't always the folder name. For example, the `[gb_811s2]` folder holds `gb811s2`, and the police Scout is `gbpolscoutgsx`. Every code is listed in [Spawn Codes](/vehicles/spawn-codes) and in `vehicle_spawn_names.txt` inside each car resource.
-2. **Check the resource is running.** Type `ensure gb_vehicles_a_to_m` (or the right resource) in the server console and look for errors.
-3. **Clear the server cache** and restart.
+1. **Check the spawn code.** Spawn codes aren't always the folder name. For example, the `[gb_811s2]` folder holds `gb811s2`, and the `[gb_nexus]` folder holds `gbnexus1`. Every code is listed in [Spawn Codes](/vehicles/spawn-codes) and in `vehicle_spawn_names.txt` inside each car resource.
+2. **Is it an emergency vehicle?** `gbpol…`, `gbems…` and `gbfirevoyager` are in Gabz's separate emergency pack, not this one.
+3. **Check the resource is running.** Type `ensure gb_vehicles_a_to_m` (or the right resource) in the server console and look for errors.
+4. **Clear the server cache** and restart.
 
 ## Could not find dependency /assetpacks
 
@@ -55,7 +56,7 @@ Modkit-Checker also reports duplicate **siren IDs**. If an emergency car has the
 
 ## Not in the dealership / can't store in garage
 
-The car files alone don't add cars to your framework. Your dealership and garages only know about cars in your shared vehicles list or database. See [Dealership Setup](/vehicles/dealership).
+The car files alone don't add cars to your framework. Your dealership and garages only know about cars in your shared vehicles list or database. See [Framework Setup](/vehicles/dealership). On Qbox, also check the shop sells that car's category.
 
 ## Textures missing, blurry or flickering
 

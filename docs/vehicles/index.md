@@ -1,9 +1,13 @@
 # Vehicles
 
-The **Gabz vehicle pack**: **140** lore-friendly cars across 15 categories, all with the `gb` spawn code prefix.
+The **Gabz vehicle pack**: **108** lore-friendly cars across 14 categories, all with the `gb` spawn code prefix.
+
+::: info Emergency vehicles are a separate pack
+The 32 police, EMS and fire vehicles (`gbpol…`, `gbems…`, `gbfirevoyager`) aren't in this pack, even though `vehicle_spawn_names.txt` lists them.
+:::
 
 - [Spawn Codes](./spawn-codes) – full list with brands, categories and prices
-- [Dealership Setup](./dealership) – drop-in data for QBox, QBCore and ESX
+- [Framework Setup](./dealership) – ready-made files for Qbox, ESX, QBCore and vMenu
 - [Add-on Liveries](./liveries) – make your own liveries with YFT Livery Maker
 - [Vehicle Issues](/issues/vehicles) – no sound, missing wheels, mod shop problems
 
@@ -35,7 +39,7 @@ Each car resource also includes:
    ensure [gbveh]
    ```
 
-4. Add the cars to your framework so players can buy and own them (see [Dealership Setup](./dealership)).
+4. Add the cars to your framework so players can buy and own them (see [Framework Setup](./dealership)).
 5. Restart the server.
 
 ::: warning Keep all 6

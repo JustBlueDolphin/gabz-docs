@@ -22,12 +22,12 @@ features:
     details: Every Gabz map with its version, dependencies and a copy-paste server.cfg order.
     link: /mlos/list
   - icon: 🚗
-    title: 140 Vehicles
+    title: 108 Vehicles
     details: Spawn codes, brands, categories and prices, grouped by class.
     link: /vehicles/spawn-codes
   - icon: 🔧
     title: Framework ready
-    details: Drop-in dealership data for QBox, QBCore and ESX, plus preset door locks.
+    details: Ready-made vehicle files for Qbox, ESX Legacy, QBCore and vMenu, plus preset door locks.
     link: /vehicles/dealership
   - icon: 🎨
     title: Add-on Liveries

@@ -32,7 +32,7 @@ Find your problem below. Tip: press <kbd>Ctrl</kbd>+<kbd>K</kbd> and paste part 
 | Gabz wheels missing from the mod shop | [Vehicle Issues → Wheels](./vehicles#gabz-wheels-missing-from-the-mod-shop) |
 | Wrong or missing mod shop parts | [Vehicle Issues → Modkits](./vehicles#mod-shop-parts-missing-or-wrong) |
 | Car name shows `NULL` | [Vehicle Issues → Names](./vehicles#name-shows-as-null-or-blank) |
-| Car not in the dealership or garage | [Dealership Setup](/vehicles/dealership) |
+| Car not in the dealership or garage | [Framework Setup](/vehicles/dealership) |
 | Livery missing from the mod shop | [Add-on Liveries → Troubleshooting](/vehicles/liveries#troubleshooting) |
 
 ## First things to try
